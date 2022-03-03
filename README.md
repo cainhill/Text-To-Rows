@@ -13,7 +13,7 @@ Great for office workers, university students, and geeks (this term used affecti
 <br />
 
 ## 📥 How to install
-1. Download the *.xlsm file from here
+1. Download <a href="https://github.com/cainhill/Text-To-Rows/blob/main/Text%20To%20Rows.xlam">this file</a>
 2. Move this file to your Excel Add-Ins folder (C:\Users\\**YOUR_USER_NAME**\AppData\Roaming\Microsoft\AddIns)
 3. Navigate to Excel > File > Options > Add-ins > Go...
     - Check the box next to 'Text to Rows'
