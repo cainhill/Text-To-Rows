@@ -8,7 +8,7 @@ Great for office workers, university students, and geeks (this term used affecti
 
 <br />
 
-<img src="https://i.ibb.co/YdrQQYx/Icon-Text-To-Rows-For-Excel.png" width="800" />
+<img src="https://i.ibb.co/k30hHDf/Screenshot-Ribbon-7000.png" width="800" />
 
 <br />
 
@@ -20,8 +20,6 @@ Great for office workers, university students, and geeks (this term used affecti
     - Click OK
 4. Confirm that you have a new button on your toolbar, "Text to Rows"
 5. Note: You may need to repeat steps 3 and 4 a few times to see the button appear as expected
-
-![](https://i.ibb.co/k30hHDf/Screenshot-Ribbon-7000.png)
 
 ## 📝 Usage
 
