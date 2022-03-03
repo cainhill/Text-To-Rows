@@ -14,7 +14,7 @@ Great for workshop presenters and streamers who want to enhance their screenshar
 
 ## 📥 How to install
 1. Download the *.xlsm file from here
-2. Move this file to your Excel Add-Ins folder (C:\Users\<b>[[Your User Name]]</b>\AppData\Roaming\Microsoft\AddIns)
+2. Move this file to your Excel Add-Ins folder (C:\Users\***[[Your User Name]]***\AppData\Roaming\Microsoft\AddIns)
 3. Navigate to Excel > File > Options
 4. Confirmn that you have a new button on your toolbar "Text to Rows"
 
