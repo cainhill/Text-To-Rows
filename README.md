@@ -1,6 +1,6 @@
 <br />
 
-<img src="https://i.ibb.co/Vt2HMs5/Icon-Text-To-Rows-For-Excel.png" height="100" />
+<img src="https://i.ibb.co/YdrQQYx/Icon-Text-To-Rows-For-Excel.png" height="100" />
 
 An Excel Add-In that splits multi-value cells into separate rows.
 
