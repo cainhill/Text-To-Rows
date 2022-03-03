@@ -21,13 +21,15 @@ Great for office workers, university students, and geeks (this term used affecti
 4. Confirm that you have a new button on your toolbar, "Text to Rows"
 5. Note: You may need to repeat steps 3 and 4 a few times to see the button appear as expected
 
+<br />
+
 ## 📝 Usage
 
 1. Select the range of cells containing the rows you want to split
-![image](https://user-images.githubusercontent.com/2561326/156479850-0698e4f5-b96c-4380-85cf-172a21311520.png)
+    ![image](https://user-images.githubusercontent.com/2561326/156479850-0698e4f5-b96c-4380-85cf-172a21311520.png)
 
-![image](https://user-images.githubusercontent.com/2561326/156479878-ea8eb9d3-dd27-4c4a-b487-ccc5a5b66f76.png)
-
+2. Click on the Text to Rows button in Excel's Ribbon (Ribbon > Data > Data Tools > Text to Rows)
+    ![image](https://user-images.githubusercontent.com/2561326/156479878-ea8eb9d3-dd27-4c4a-b487-ccc5a5b66f76.png)
 
 <br />
 
