@@ -31,9 +31,11 @@ Great for office workers, university students, and geeks (this term used affecti
     ![image](https://user-images.githubusercontent.com/2561326/156479850-0698e4f5-b96c-4380-85cf-172a21311520.png)
 
 2. Click on the Text to Rows button in Excel's Ribbon (Ribbon > Data > Data Tools > Text to Rows)
+
+3. The add-in will split your cell while retaining the surrounding cells:
     ![image](https://user-images.githubusercontent.com/2561326/156479878-ea8eb9d3-dd27-4c4a-b487-ccc5a5b66f76.png)
     
-3. Celebrate good data
+4. Celebrate good data
 
 <br />
 
