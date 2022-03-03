@@ -6,7 +6,9 @@ An Excel Add-In that splits multi-value cells into separate rows.
 
 Great for office workers, university students, and geeks (this term used affectionately), who need to normalise their data sets.
 
-<img src="images/screenshot.png" width="800" />
+<br />
+
+<img src="https://i.ibb.co/YdrQQYx/Icon-Text-To-Rows-For-Excel.png" width="800" />
 
 <br />
 
