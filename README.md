@@ -21,6 +21,8 @@ Great for workshop presenters and streamers who want to enhance their screenshar
 4. Confirm that you have a new button on your toolbar "Text to Rows"
 5. Note: You may need to repeat steps 3 and 4 a few times to see the button appear as expected
 
+![](https://i.ibb.co/k30hHDf/Screenshot-Ribbon-7000.png)
+
 ## 📝 Usage
 
 1. Select the range of cells containing the rows you want to split
