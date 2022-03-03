@@ -37,7 +37,7 @@ Great for office workers, university students, and geeks (this term used affecti
 
 - May error if an entire column is selected
 - May seem unresponsive when applied to large sets of data (e.g. 1000+ rows)
-- WebcamCircle has been built and tested on Windows 10 only.
+- Has been built and tested on Windows 10 only
 
 <br />
 
